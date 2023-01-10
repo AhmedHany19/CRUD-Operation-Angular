@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": 4,
+      "firstName": "ahmed hany ",
+      "lastName": "Wilzy",
+      "email": "ahmedwilzy@gmail.com",
+      "salary": "151669",
+      "mobile": "01090504001"
+    },
+    {
+      "id": 6,
+      "firstName": "ahmed",
+      "lastName": "hany",
+      "email": "admin@gmail.com",
+      "salary": "15051",
+      "mobile": "01090504001"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
